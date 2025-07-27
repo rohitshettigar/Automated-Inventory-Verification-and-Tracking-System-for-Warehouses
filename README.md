@@ -61,8 +61,7 @@ The system works as follows:
   - Servo.h
 - Firebase Console
 - Android Studio (for Kotlin-based app)
-- GitHub Repository:  
-  [Project Code on GitHub](https://github.com/pancham12345678/inventory_maintenance./tree/main)
+
 
 ---
 
