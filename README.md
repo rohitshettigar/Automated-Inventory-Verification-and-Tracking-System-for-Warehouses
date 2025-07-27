@@ -76,12 +76,6 @@ The system works as follows:
  **Mobile App Features:**
 - Displays index page, inventory details, search functionality, and results
 
- **Screenshots:**
-![Index Page](outputs/index_page.png)  
-![Inventory Details](outputs/inventory_details.png)  
-![Search Box](outputs/search_box.png)  
-![Search Results](outputs/search_results.png)
-
 ---
 
 ##  Conclusion
